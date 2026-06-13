@@ -1,0 +1,11 @@
+E:\Profects\LOGIN Screen\obj\Debug\LOGIN Screen.csproj.AssemblyReference.cache
+E:\Profects\LOGIN Screen\obj\Debug\LOGIN_Screen.Properties.Resources.resources
+E:\Profects\LOGIN Screen\obj\Debug\LOGIN Screen.csproj.GenerateResource.cache
+E:\Profects\LOGIN Screen\obj\Debug\LOGIN Screen.csproj.CoreCompileInputs.cache
+E:\Profects\LOGIN Screen\bin\Debug\LOGIN Screen.exe.config
+E:\Profects\LOGIN Screen\bin\Debug\LOGIN Screen.exe
+E:\Profects\LOGIN Screen\bin\Debug\LOGIN Screen.pdb
+E:\Profects\LOGIN Screen\obj\Debug\LOGIN_Screen.frmLogin.resources
+E:\Profects\LOGIN Screen\obj\Debug\LOGIN Screen.exe
+E:\Profects\LOGIN Screen\obj\Debug\LOGIN Screen.pdb
+E:\Profects\LOGIN Screen\obj\Debug\LOGIN_Screen.frmMessage.resources
