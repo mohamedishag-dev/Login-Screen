@@ -47,7 +47,7 @@ A modern and user-friendly Login Screen developed .
 
 Mohamed Ishag
 
-GitHub: https://github.com/mohamedishag-dev
+GitHub:[@mohamedishag]( https://github.com/mohamedishag-dev)
 
 ## 📄 License
 
