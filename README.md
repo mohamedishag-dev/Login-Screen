@@ -11,9 +11,10 @@ A modern and user-friendly Login Screen developed .
 
 ## 🖼️ Preview
 
+<img width="433" height="636" alt="Screenshot 2026-06-13 071803" src="https://github.com/user-attachments/assets/89b89148-27c6-4074-bc37-69f7a0165115" />
+
 ### Login Screen
 
-![Login Screen](images/login-screen.png)
 
 ## 🚀 Technologies Used
 
